@@ -1,0 +1,30 @@
+***** Eval results albert_base_ner_checkpoints/model.ckpt-0 *****
+eval_f = 0.039420675
+eval_precision = 0.1063137
+eval_recall = 0.09268585
+global_step = 0
+loss = 2527.1167
+***** Eval results albert_base_ner_checkpoints/model.ckpt-1000 *****
+eval_f = 0.96972483
+eval_precision = 0.987371
+eval_recall = 0.9537645
+global_step = 1000
+loss = 18.038662
+***** Eval results albert_base_ner_checkpoints/model.ckpt-1324 *****
+eval_f = 0.9696723
+eval_precision = 0.97759223
+eval_recall = 0.9621401
+global_step = 1324
+loss = 14.338665
+***** Eval results albert_base_ner_checkpoints/model.ckpt-2324 *****
+eval_f = 0.9777471
+eval_precision = 0.9844043
+eval_recall = 0.9712928
+global_step = 2324
+loss = 25.053852
+***** Eval results albert_base_ner_checkpoints/model.ckpt-2649 *****
+eval_f = 0.97811663
+eval_precision = 0.98216194
+eval_recall = 0.9741545
+global_step = 2649
+loss = 26.318285
